@@ -5,4 +5,4 @@ Jennifer Lopez, David Guadian
 
 Wednesday Dec. 14, 2022
 
-src folder containing source code, program files (example: project.cpp)
+project.cpp
